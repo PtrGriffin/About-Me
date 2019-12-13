@@ -1,0 +1,64 @@
+body{
+  background: url(https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/09/20/minecraft-beta-update-113015-adds-character-creator_feature.jpg);
+  background-size: 1920px 940px;
+  background-repeat: no-repeat;
+}
+
+h1 {
+   font-family: 'MinecrafterAltRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+   color: gray;
+  text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 5.5px 0 #000,
+    2px 5.5px 0 #000;  
+}
+
+h2 {
+   font-family: 'MinecraftiaRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+}
+
+#Button{
+  height: 45px;
+  width: 250px;
+  margin-left: 520px;
+  margin-right: 520px;
+  text-align: center;
+  margin-bottom: -20px;
+  position: 
+}
+
+
+#Text{
+  bottom: -65px;
+  position: relative;
+  text-align: center;
+  color: #dbdbdb;
+  font-family: 'MinecraftiaRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+#Picture{ 
+  border: solid black 5px; 
+  margin-top: 60px; 
+  margin-left: 525px; 
+  margin-right: 525px; }
+
+#Text2{
+  color: darkgray;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+
+
+
